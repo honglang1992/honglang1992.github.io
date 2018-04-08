@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Honglang的博客</title>
+  <title>Dendi的博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-05T04:15:28.085Z</updated>
+  <updated>2018-04-08T06:09:16.718Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,52 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2017-12-05-DesignPattherns</title>
-    <link href="http://yoursite.com/2017/12/05/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    <id>http://yoursite.com/2017/12/05/设计模式/</id>
-    <published>2017-12-05T04:04:02.000Z</published>
-    <updated>2017-12-05T04:15:28.085Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p></blockquote><blockquote><p>Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</p><footer><strong>David Levithan</strong><cite>Wide Awake</cite></footer></blockquote>]]></content>
+    <title>blogInit</title>
+    <link href="http://yoursite.com/2018/04/08/blogInit/"/>
+    <id>http://yoursite.com/2018/04/08/blogInit/</id>
+    <published>2018-04-08T06:09:16.000Z</published>
+    <updated>2018-04-08T06:09:16.718Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempo
-      
-    
     </summary>
     
-      <category term="编程规范" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83/"/>
-    
-      <category term="设计模式" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-    
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
-    
-      <category term="设计模式" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/27/hello-world/"/>
-    <id>http://yoursite.com/2017/09/27/hello-world/</id>
-    <published>2017-09-27T09:04:27.688Z</published>
-    <updated>2017-07-29T14:20:50.427Z</updated>
+    <title>2018-04-08-hexo构建博客</title>
+    <link href="http://yoursite.com/2018/04/08/hexoBlog/"/>
+    <id>http://yoursite.com/2018/04/08/hexoBlog/</id>
+    <published>2018-04-08T04:04:02.000Z</published>
+    <updated>2018-04-08T06:49:31.858Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客构建"><a href="#博客构建" class="headerlink" title="博客构建"></a>博客构建</h1><h3 id="采用hexo构建博客"><a href="#采用hexo构建博客" class="headerlink" title="采用hexo构建博客"></a>采用hexo构建博客</h3><p><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="external">hexo构建详细说明文档</a></p><p><strong>发布新文章流程：</strong></p><ul><li>编写markdown语法文件，然后放到source目录下_posts目录</li><li>执行命令：hexo sever -g</li><li>如果想部署到 github个人网站 则执行 hexo deploy</li></ul>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h1 id=&quot;博客构建&quot;&gt;&lt;a href=&quot;#博客构建&quot; class=&quot;headerlink&quot; title=&quot;博客构建&quot;&gt;&lt;/a&gt;博客构建&lt;/h1&gt;&lt;h3 id=&quot;采用hexo构建博客&quot;&gt;&lt;a href=&quot;#采用hexo构建博客&quot; class=&quot;headerlink&quot; titl
       
     
     </summary>
     
+      <category term="个人" scheme="http://yoursite.com/categories/%E4%B8%AA%E4%BA%BA/"/>
+    
+    
+      <category term="博客" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
